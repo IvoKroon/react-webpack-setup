@@ -1,0 +1,6 @@
+.gitignore
+node_modules/
+public/
+package-lock.json
+.idea
+.git
