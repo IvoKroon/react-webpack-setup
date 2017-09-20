@@ -1,7 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
+import App from './Components/App/App';
 
 render(
-    <h1>HELLO</h1>,
+    <App/>,
     document.getElementById('root')
 );
